@@ -23,6 +23,8 @@ int main()
 				l = l / 10;
 			}
 			k = k / 10;
+			if (check == false)
+				break;
 		}
 		if (check == true) //виведення числа, якщо однакових цифр не знайдено
 		{
