@@ -1,0 +1,7 @@
+﻿  Source.cpp
+e:\university\I semester\Basics of programming\Labor7\Lab7\Source.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\university\I semester\Basics of programming\Labor7\Lab7\Source.cpp(42,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\university\I semester\Basics of programming\Labor7\Lab7\Source.cpp(43,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\university\I semester\Basics of programming\Labor7\Lab7\Source.cpp(58,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\university\I semester\Basics of programming\Labor7\Lab7\Source.cpp(67,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab7.vcxproj -> E:\university\I semester\Basics of programming\Labor7\Lab7\Debug\Lab7.exe
