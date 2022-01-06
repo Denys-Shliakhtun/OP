@@ -1,4 +1,4 @@
 ﻿  Source.cpp
-e:\university\I semester\Basics of programming\Labor9\Lab9\Source.cpp(46,18): warning C4018: '<': signed/unsigned mismatch
-e:\university\I semester\Basics of programming\Labor9\Lab9\Source.cpp(51,19): warning C4018: '<': signed/unsigned mismatch
-  Lab9.vcxproj -> E:\university\I semester\Basics of programming\Labor9\Lab9\Debug\Lab9.exe
+C:\Users\Dion\Documents\GitHub\OP\lab9\Lab9\Source.cpp(46,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dion\Documents\GitHub\OP\lab9\Lab9\Source.cpp(51,19): warning C4018: '<': signed/unsigned mismatch
+  Lab9.vcxproj -> C:\Users\Dion\Documents\GitHub\OP\lab9\Lab9\Debug\Lab9.exe

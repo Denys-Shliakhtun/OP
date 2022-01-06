@@ -43,7 +43,7 @@ string strChange(string str, int k)
 	while (pos != string::npos) //поки можна знайти пробіл в рядку
 	{
 		w = str.substr(0, pos); //виділення слова в окремий рядок
-		if (w.length() < k)
+		if (w.length() < k && w.length() > 0)
 			rez += w + ' ';		//конкатенація слова, коротшого за k, до рядка результату
 		str.erase(0, pos + 1);	//видалення з даного рядка слова та пробілу
 		pos = str.find(sep);	//визначення позиції розділення слів
